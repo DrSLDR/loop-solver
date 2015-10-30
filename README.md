@@ -1,2 +1,4 @@
 # loop-solver
-Solver for the popular puzzle game Loop
+_Solver for the popular puzzle game Loop_
+
+Status: ![](https://travis-ci.org/DrSLDR/loop-solver.svg?branch=master)
